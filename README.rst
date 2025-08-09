@@ -29,7 +29,11 @@ Mixing Colors
 Changing Formats
 ::
   rgba = darkpink.to_rgba()
-  hsl = darkpint.to_hsl()
+  hsl = darkpink.to_hsl()
+Printing with color
+::
+  chromakit.colored("dark pink", darkpink, mode = "print")
+  print(chromakit.colored("blue", blue))
 
 Installation
 ======
