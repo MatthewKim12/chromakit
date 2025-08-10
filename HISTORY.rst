@@ -1,3 +1,6 @@
+0.0.4
+======
+- finally started using colorama
 0.0.3
 ======
 - colorama
